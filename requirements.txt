@@ -1,0 +1,15 @@
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.2
+pypdf>=4.3
+python-dotenv>=1.0
+sentence-transformers>=3.0
+pinecone-client>=5.0
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+streamlit>=1.38
+tenacity>=9.0
+tqdm>=4.66
+pyspark>=3.5
+apache-airflow>=2.9 ; python_version < "3.13"
